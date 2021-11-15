@@ -1,0 +1,15 @@
+push.sh
+node_modules
+.DS_Store
+package-lock.json
+simple-ftp-deploy.json
+*.iml
+/.idea
+reports
+./reports
+.scannerwork
+phpunit.xml.dist
+package.json
+bin
+.phpcs.xml.dist
+.phraseapp.yml
