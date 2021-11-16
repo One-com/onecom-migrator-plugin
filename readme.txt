@@ -49,10 +49,6 @@ Contact our support
 
 1. You can contact at any time regarding any doubts and issues with the plugin from one.com support (<a href="https://help.one.com/hc/en-us">https://help.one.com/hc/en-us</a>) and Support Chat forms.
 
-== Screenshots ==
-
-1. banner.png
-
 == Changelog ==
 
 = 0.1.0 =
